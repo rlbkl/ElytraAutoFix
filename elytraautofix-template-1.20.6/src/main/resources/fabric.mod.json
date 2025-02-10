@@ -6,8 +6,8 @@
 	"description": "（基于Baritone）当鞘翅耐久低于阈值时，自动使用经验瓶修复并恢复飞行路线",
 	"authors": ["qwq9648"],
 	"contact": {
-		"homepage": "https://github.com/暂无",
-		"sources": "https://github.com/暂无"
+		"homepage": "https://github.com/rlbkl/ElytraAutoFix",
+		"sources": "https://github.com/rlbkl/ElytraAutoFix"
 	},
 	"license": "GPL",
 	"icon": "assets/elytraautofix/icon.png",
