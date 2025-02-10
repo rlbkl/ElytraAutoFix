@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "elytraautofix",
+	"version": "${version}",
+	"name": "ElytraAutoFix（鞘翅自动修复）",
+	"description": "（基于Baritone）当鞘翅耐久低于阈值时，自动使用经验瓶修复并恢复飞行路线",
+	"authors": ["qwq9648"],
+	"contact": {
+		"homepage": "https://github.com/暂无",
+		"sources": "https://github.com/暂无"
+	},
+	"license": "GPL",
+	"icon": "assets/elytraautofix/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.ElytraAutoFix_qwq9648.ElytraAutoFix"]
+	},
+	"mixins": ["elytraautofix.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.20.6",
+		"fabric-api": "*",
+		"java": ">=17"
+	},
+	"suggests": {
+		"baritone": "*"
+	}
+}

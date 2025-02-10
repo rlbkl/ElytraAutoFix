@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.ElytraAutoFix_qwq9648.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
