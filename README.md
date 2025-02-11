@@ -1,5 +1,5 @@
 # ElytraAutoFix
-（基于Baritone）当鞘翅耐久低于阈值时，自动使用经验瓶修复并恢复飞行路线
+（基于Baritone）在下界使用Baritone自动飞行中，当鞘翅耐久低于阈值时，自动使用经验瓶修复(需要经验修补的鞘翅，并且背包要有2组经验瓶)并恢复飞行路线
 
 需要下载Baritone才能使用
 
@@ -15,4 +15,4 @@ https://github.com/cabaletta/baritone
 
 必须保留版权声明与协议原文
 
-我的minecraft的游戏名称是qwq9648
+我的Minecraft的游戏名称是qwq9648
