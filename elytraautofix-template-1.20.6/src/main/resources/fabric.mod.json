@@ -3,7 +3,7 @@
 	"id": "elytraautofix",
 	"version": "${version}",
 	"name": "ElytraAutoFix（鞘翅自动修复）",
-	"description": "（基于Baritone）当鞘翅耐久低于阈值时，自动使用经验瓶修复并恢复飞行路线",
+	"description": "（基于Baritone）在下界使用Baritone自动飞行中，当鞘翅耐久低于阈值时，自动使用经验瓶修复(需要经验修补的鞘翅，并且背包要有2组经验瓶)并恢复飞行路线",
 	"authors": ["qwq9648"],
 	"contact": {
 		"homepage": "https://github.com/rlbkl/ElytraAutoFix",
